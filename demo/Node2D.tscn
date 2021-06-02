@@ -10,3 +10,5 @@ margin_bottom = 155.0
 __meta__ = {
 "_edit_use_anchors_": false
 }
+
+[node name="Viewport" type="Viewport" parent="."]
